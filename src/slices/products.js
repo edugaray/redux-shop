@@ -6,6 +6,8 @@ export const initialState = {
 	hasErrors: false,
 };
 
+const APIurl = './data.json';
+
 // A slice for products with our 3 reducers
 const productsSlice = createSlice({
 	name: 'products',
@@ -41,8 +43,7 @@ export function fetchProducts() {
 		dispatch(getProducts());
 
     try {
-      const url = './data.json';
-      const response = await axios.get(url);
+      const response = await axios.get(APIurl);
 			dispatch(getProductsSuccess(response.data));
 		} catch (error) {
 			dispatch(getProductsFailure());

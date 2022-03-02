@@ -5,7 +5,7 @@
 		"price": 8.99,
 		"description": "Baby blue pants",
 		"category": "bottoms",
-		"sizes": [{"1M": 3}, {"3M": 3}, {"6M": 3}, {"9M": 3}, {"12M": 3}],
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
 		"image": "/img/bottoms/baby_blue.webp"
 	},
 	{
@@ -14,7 +14,7 @@
 		"price": 8.99,
 		"description": "Black pants",
 		"category": "bottoms",
-		"sizes": [{"1M": 3}, {"3M": 3}, {"6M": 3}, {"9M": 3}, {"12M": 3}],
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
 		"image": "/img/bottoms/black.webp"
 	},
 	{
@@ -23,6 +23,763 @@
 		"price": 8.99,
 		"description": "Blue striped pants",
 		"category": "bottoms",
-		"sizes": [{"1M": 3}, {"3M": 3}, {"6M": 3}, {"9M": 3}, {"12M": 3}],
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
 		"image": "/img/bottoms/blue_stripes.webp"
-	}]
+	},
+	{
+		"id": 4,
+		"title": "Footed baby bottoms",
+		"price": 8.99,
+		"description": "Green striped pants",
+		"category": "bottoms",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/bottoms/green_stripes.webp"
+	},
+	{
+		"id": 5,
+		"title": "Footed baby bottoms",
+		"price": 8.99,
+		"description": "Green pants",
+		"category": "bottoms",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/bottoms/green.webp"
+	},
+	{
+		"id": 6,
+		"title": "Footed baby bottoms",
+		"price": 8.99,
+		"description": "Grey pants",
+		"category": "bottoms",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/bottoms/grey.webp"
+	},
+	{
+		"id": 7,
+		"title": "Footed baby bottoms",
+		"price": 8.99,
+		"description": "Pink striped pants",
+		"category": "bottoms",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/bottoms/pink_stripes.webp"
+	},
+	{
+		"id": 8,
+		"title": "Footed baby bottoms",
+		"price": 8.99,
+		"description": "Pink pants",
+		"category": "bottoms",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/bottoms/pink.webp"
+	},
+	{
+		"id": 9,
+		"title": "Footed baby bottoms",
+		"price": 8.99,
+		"description": "White pants",
+		"category": "bottoms",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/bottoms/white.webp"
+	},
+	{
+		"id": 10,
+		"title": "Footed baby bottoms",
+		"price": 8.99,
+		"description": "Yellow striped pants",
+		"category": "bottoms",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/bottoms/yellow_stripes.webp"
+	},
+	{
+		"id": 11,
+		"title": "Footed baby bottoms",
+		"price": 8.99,
+		"description": "Yellow pants",
+		"category": "bottoms",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/bottoms/yellow.webp"
+	},
+	{
+		"id": 12,
+		"title": "Fruity baby dress",
+		"price": 8.99,
+		"description": "Fruity dress",
+		"category": "dresses",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/dresses/fruity_dress.webp"
+	},
+	{
+		"id": 13,
+		"title": "Green polka dot baby dress",
+		"price": 8.99,
+		"description": "Green baby dress with white polka dots",
+		"category": "dresses",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/dresses/green_polka_dot_dress.webp"
+	},
+	{
+		"id": 14,
+		"title": "Minnie Mouse baby dress",
+		"price": 8.99,
+		"description": "Minnie Mouse baby dress",
+		"category": "dresses",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/dresses/minnie_mouse_dress.webp"
+	},
+	{
+		"id": 15,
+		"title": "Red polka dot baby dress",
+		"price": 8.99,
+		"description": "Red baby dress with white polka dots",
+		"category": "dresses",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/dresses/red_polka_dot_dress.webp"
+	},
+	{
+		"id": 16,
+		"title": "Red striped baby dress",
+		"price": 8.99,
+		"description": "Red striped baby dress",
+		"category": "dresses",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/dresses/red_stripe_dress.webp"
+	},
+	{
+		"id": 17,
+		"title": "Beige tiger top",
+		"price": 8.99,
+		"description": "Beige tiger top",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/beige_tiger.webp"
+	},
+	{
+		"id": 18,
+		"title": "Black top with yellow stripes",
+		"price": 8.99,
+		"description": "Black top with yellow stripes",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/black_yellow_stripes.webp"
+	},
+	{
+		"id": 19,
+		"title": "Baby blue top with panda",
+		"price": 8.99,
+		"description": "Baby blue top with panda peeping from its side",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/blue_panda.webp"
+	},
+	{
+		"id": 20,
+		"title": "Green top with blue stripes",
+		"price": 8.99,
+		"description": "Green top with blue stripes",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/green_blue_stripes.webp"
+	},
+	{
+		"id": 21,
+		"title": "Turquoise top with piggy",
+		"price": 8.99,
+		"description": "Turquoise top with piggy",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/green_piggie.webp"
+	},
+	{
+		"id": 22,
+		"title": "Multi colour striped top",
+		"price": 8.99,
+		"description": "Multi colour striped top with smile emoji",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/multi_fashion.webp"
+	},
+	{
+		"id": 23,
+		"title": "Pink top with a bunny",
+		"price": 8.99,
+		"description": "Pink top with a bunny peeping out on its side",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/pink_bunny.webp"
+	},
+	{
+		"id": 24,
+		"title": "Pink top with white green stripped sleeves",
+		"price": 8.99,
+		"description": "Pink top with white green stripped sleeves and a cartoon animal face",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/pink_green_stripes.webp"
+	},
+	{
+		"id": 25,
+		"title": "Salmon top with white herts",
+		"price": 8.99,
+		"description": "Salmon top with white herts",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/salmon_hearts.webp"
+	},
+	{
+		"id": 26,
+		"title": "White top with caption",
+		"price": 8.99,
+		"description": "White top with 'I am daddy's little princess' caption",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/white_daddys_princess.webp"
+	},
+	{
+		"id": 27,
+		"title": "White top with bubble tea cups and caption",
+		"price": 8.99,
+		"description": "White top with bubble tea cups and 'liquid diet' caption",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/white_liquid_diet.webp"
+	},
+	{
+		"id": 28,
+		"title": "Movie marathon white top",
+		"price": 8.99,
+		"description": "White top with Movie Marathon caption and illustrations",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/white_movie_marathon.webp"
+	},
+	{
+		"id": 29,
+		"title": "White top with piggie",
+		"price": 8.99,
+		"description": "White top with piggie peeping on its side",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/white_piggie.webp"
+	},
+	{
+		"id": 30,
+		"title": "Yellow top with dinosaur",
+		"price": 8.99,
+		"description": "Yellow top with white black-striped sleeves and dinosaur image on the front",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/yellow_dino.webp"
+	},
+	{
+		"id": 31,
+		"title": "Yellow top with orange stripes",
+		"price": 8.99,
+		"description": "Yellow top with orange stripes",
+		"category": "tops",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/tops/yellow_red_stripes.webp"
+	},
+	{
+		"id": 32,
+		"title": "Blue romper",
+		"price": 8.99,
+		"description": "Blue romper with panda on the front",
+		"category": "rompers",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/rompers/blue_romper.webp"
+	},
+	{
+		"id": 33,
+		"title": "Daddys rookie romper",
+		"price": 8.99,
+		"description": "Daddys rookie fun romper",
+		"category": "rompers",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/rompers/dadys_rookie_fun_romper.webp"
+	},
+	{
+		"id": 34,
+		"title": "Green romper",
+		"price": 8.99,
+		"description": "Green romper",
+		"category": "rompers",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/rompers/green_romper.webp"
+	},
+	{
+		"id": 35,
+		"title": "Mickey Mouse romper",
+		"price": 8.99,
+		"description": "Mickey Mouse romper",
+		"category": "rompers",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/rompers/mm_romper.webp"
+	},
+	{
+		"id": 36,
+		"title": "Pink romper",
+		"price": 8.99,
+		"description": "Pink romper",
+		"category": "rompers",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/rompers/pink_romper.webp"
+	},
+	{
+		"id": 37,
+		"title": "White and baby blue cat romper",
+		"price": 8.99,
+		"description": "White and baby blue cat romper",
+		"category": "rompers",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/rompers/white_baby_blue_romper.webp"
+	},
+	{
+		"id": 38,
+		"title": "White and navy blue stripped romper with elephant detail",
+		"price": 8.99,
+		"description": "White and navy blue stripped romper with elephant detail",
+		"category": "rompers",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/rompers/white_blue_elephant_romper.webp"
+	},
+	{
+		"id": 39,
+		"title": "White and baby pink cat romper",
+		"price": 8.99,
+		"description": "White and baby pink cat romper",
+		"category": "rompers",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/rompers/white_pink_romper.webp"
+	},
+	{
+		"id": 40,
+		"title": "White and yellow cat romper",
+		"price": 8.99,
+		"description": "White and yellow cat romper",
+		"category": "rompers",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/rompers/white_yellow_romper.webp"
+	},
+	{
+		"id": 41,
+		"title": "Black Converse style shoes",
+		"price": 8.99,
+		"description": "Black Converse style shoes",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/black_converse.webp"
+	},
+	{
+		"id": 42,
+		"title": "Black moccasin shoes",
+		"price": 8.99,
+		"description": "Black moccasin shoes",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/black_moccasins.webp"
+	},
+	{
+		"id": 43,
+		"title": "Blue moccasin shoes",
+		"price": 8.99,
+		"description": "Blue moccasin shoes",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/blue_moccasins.webp"
+	},
+	{
+		"id": 44,
+		"title": "Blue sandals",
+		"price": 8.99,
+		"description": "Blue sandals",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/blue_sandals.webp"
+	},
+	{
+		"id": 45,
+		"title": "Baby blue smiley booties",
+		"price": 8.99,
+		"description": "Baby blue booties with antropomorphic smiley face",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/blue_smile_shoes.webp"
+	},
+	{
+		"id": 46,
+		"title": "Brown moccasin shoes",
+		"price": 8.99,
+		"description": "Brown moccasin shoes",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/brown_moccasins.webp"
+	},
+	{
+		"id": 47,
+		"title": "Green Converse style shoes",
+		"price": 8.99,
+		"description": "Green Converse style shoes",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/green_converse.webp"
+	},
+	{
+		"id": 48,
+		"title": "Baby pink mouse shoes",
+		"price": 8.99,
+		"description": "Baby pink mouse shoes",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/mouse_shoes_pink.webp"
+	},
+	{
+		"id": 49,
+		"title": "Grey pink mouse shoes",
+		"price": 8.99,
+		"description": "Grey pink mouse shoes",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/mouse_shoes.webp"
+	},
+	{
+		"id": 50,
+		"title": "Pink sandals",
+		"price": 8.99,
+		"description": "Pink sandals",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/pink_sandals.webp"
+	},
+	{
+		"id": 51,
+		"title": "Baby pink smiley booties",
+		"price": 8.99,
+		"description": "Baby pink booties with antropomorphic smiley face",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/pink_smile_shoes.webp"
+	},
+	{
+		"id": 52,
+		"title": "Red Converse style shoes",
+		"price": 8.99,
+		"description": "Red Converse style shoesshoes",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/red_converse.webp"
+	},
+	{
+		"id": 53,
+		"title": "White Converse style shoes",
+		"price": 8.99,
+		"description": "White Converse style shoesshoes",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/white_converse.webp"
+	},
+	{
+		"id": 54,
+		"title": "White moccasin shoes",
+		"price": 8.99,
+		"description": "White moccasin shoes",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/white_moccasins.webp"
+	},
+	{
+		"id": 55,
+		"title": "White sandals",
+		"price": 8.99,
+		"description": "White sandals",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/white_sandals.webp"
+	},
+	{
+		"id": 56,
+		"title": "Yellow sandals",
+		"price": 8.99,
+		"description": "Yellow sandals",
+		"category": "shoes",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/shoes/yellow_sandals.webp"
+	},
+	{
+		"id": 57,
+		"title": "Beige beanie hat",
+		"price": 8.99,
+		"description": "Beige beanie hat with furry ears",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/beige_furry_beanie.webp"
+	},
+	{
+		"id": 58,
+		"title": "Black beanie hat",
+		"price": 8.99,
+		"description": "Black beanie hat with furry ears",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/black_furry_beanie.webp"
+	},
+	{
+		"id": 59,
+		"title": "White beanie hat with tripes",
+		"price": 8.99,
+		"description": "White beanie hat with tripes and black ears",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/black_striped_ear_beanie.webp"
+	},
+	{
+		"id": 60,
+		"title": "Blue teddy cap",
+		"price": 8.99,
+		"description": "Blue stripey teddy cap",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/blue_cap.webp"
+	},
+	{
+		"id": 61,
+		"title": "Light blue mesh mouse face cap",
+		"price": 8.99,
+		"description": "Light blue mesh mouse face cap",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/blue_cute_cap.webp"
+	},
+	{
+		"id": 62,
+		"title": "Brown beanie hat with ears",
+		"price": 8.99,
+		"description": "Brown beanie hat with ears",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/brown_ear_beanie.webp"
+	},
+	{
+		"id": 63,
+		"title": "Grey teddy cap",
+		"price": 8.99,
+		"description": "Grey stripey teddy cap",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/grey_cap.webp"
+	},
+	{
+		"id": 64,
+		"title": "Grey beanie hat",
+		"price": 8.99,
+		"description": "Grey beanie hat with furry ears",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/grey_furry_beanie.webp"
+	},
+	{
+		"id": 65,
+		"title": "Pink teddy cap",
+		"price": 8.99,
+		"description": "Pink stripey teddy cap",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/pink_cap.webp"
+	},
+	{
+		"id": 66,
+		"title": "Pink beanie hat with ears",
+		"price": 8.99,
+		"description": "Pink beanie hat with black ears",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/pink_ear_beanie.webp"
+	},
+	{
+		"id": 67,
+		"title": "Pink beanie hat",
+		"price": 8.99,
+		"description": "Pink beanie hat with furry ears",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/pink_furry_beanie.webp"
+	},
+	{
+		"id": 68,
+		"title": "Red beanie hat with ears",
+		"price": 8.99,
+		"description": "Red beanie hat with black ears",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/red_ear_beanie.webp"
+	},
+	{
+		"id": 69,
+		"title": "Red beanie hat with ears",
+		"price": 8.99,
+		"description": "Red beanie hat with ears",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/red_ear_beanie_2.webp"
+	},
+	{
+		"id": 70,
+		"title": "White beanie hat",
+		"price": 8.99,
+		"description": "White beanie hat with furry ears",
+		"category": "hats",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/hats/white_furry_beanie.webp"
+	},
+	{
+		"id": 71,
+		"title": "White fun bodysuit",
+		"price": 8.99,
+		"description": "White fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/any_cuter.webp"
+	},
+	{
+		"id": 72,
+		"title": "White fun bodysuit",
+		"price": 8.99,
+		"description": "White fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/best_dad_ever_white.webp"
+	},
+	{
+		"id": 73,
+		"title": "White fun bodysuit",
+		"price": 8.99,
+		"description": "White fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/best_mom_ever_white.webp"
+	},
+	{
+		"id": 74,
+		"title": "Black fun bodysuit",
+		"price": 8.99,
+		"description": "Black fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/born_2_rock_black.webp"
+	},
+	{
+		"id": 75,
+		"title": "Grey fun bodysuit",
+		"price": 8.99,
+		"description": "Grey fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/born_2_rock_grey.webp"
+	},
+	{
+		"id": 76,
+		"title": "Pink fun bodysuit",
+		"price": 8.99,
+		"description": "Pink fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/born_2_rock_pink.webp"
+	},
+	{
+		"id": 77,
+		"title": "White fun bodysuit",
+		"price": 8.99,
+		"description": "White fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/born_2_rock_white.webp"
+	},
+	{
+		"id": 78,
+		"title": "Pink fun bodysuit",
+		"price": 8.99,
+		"description": "Pink fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/eat_sleep_poop_repeat_pink.webp"
+	},
+	{
+		"id": 79,
+		"title": "Grey fun bodysuit",
+		"price": 8.99,
+		"description": "Grey fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/future_rockstar_grey.webp"
+	},
+	{
+		"id": 80,
+		"title": "Pink fun bodysuit",
+		"price": 8.99,
+		"description": "Pink fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/future_rockstar_pink.webp"
+	},
+	{
+		"id": 81,
+		"title": "Baby blue fun bodysuit",
+		"price": 8.99,
+		"description": "Baby blue fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/mom_no_aunt_yes_blue.webp"
+	},
+	{
+		"id": 82,
+		"title": "Baby pink fun bodysuit",
+		"price": 8.99,
+		"description": "Baby pink fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/mom_no_aunt_yes_pink.webp"
+	},
+	{
+		"id": 83,
+		"title": "Blue fun bodysuit",
+		"price": 8.99,
+		"description": "Blue fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/poop_is_coming_blue.webp"
+	},
+	{
+		"id": 84,
+		"title": "Grey fun bodysuit",
+		"price": 8.99,
+		"description": "Grey fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/poop_is_coming_grey.webp"
+	},
+	{
+		"id": 85,
+		"title": "Pink fun bodysuit",
+		"price": 8.99,
+		"description": "Pink fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/poop_is_coming_Pink.webp"
+	},
+	{
+		"id": 86,
+		"title": "White fun bodysuit",
+		"price": 8.99,
+		"description": "White fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/poop_is_coming_white.webp"
+	},
+	{
+		"id": 87,
+		"title": "White fun bodysuit",
+		"price": 8.99,
+		"description": "White fun bodysuit",
+		"category": "fun",
+		"sizes": [{ "1M": 3 }, { "3M": 3 }, { "6M": 3 }, { "9M": 3 }, { "12M": 3 }],
+		"image": "/img/fun/the_force_is_strong_white.webp"
+	}
+]
