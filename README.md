@@ -1,1 +1,1 @@
-## Online shop made with Reac-Redux and Material UI
+# Online shop made with Reac-Redux and Material UI

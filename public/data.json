@@ -1,0 +1,28 @@
+[
+	{
+		"id": 1,
+		"title": "Footed baby bottoms",
+		"price": 8.99,
+		"description": "Baby blue pants",
+		"category": "bottoms",
+		"sizes": [{"1M": 3}, {"3M": 3}, {"6M": 3}, {"9M": 3}, {"12M": 3}],
+		"image": "/img/bottoms/baby_blue.webp"
+	},
+	{
+		"id": 2,
+		"title": "Footed baby bottoms",
+		"price": 8.99,
+		"description": "Black pants",
+		"category": "bottoms",
+		"sizes": [{"1M": 3}, {"3M": 3}, {"6M": 3}, {"9M": 3}, {"12M": 3}],
+		"image": "/img/bottoms/black.webp"
+	},
+	{
+		"id": 3,
+		"title": "Footed baby bottoms",
+		"price": 8.99,
+		"description": "Blue striped pants",
+		"category": "bottoms",
+		"sizes": [{"1M": 3}, {"3M": 3}, {"6M": 3}, {"9M": 3}, {"12M": 3}],
+		"image": "/img/bottoms/blue_stripes.webp"
+	}]
